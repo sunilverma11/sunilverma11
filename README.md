@@ -16,17 +16,17 @@
 
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
+<!-- I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/> -->
+<!-- I have done Internship as a FullStack Developer as well as Website Tester.<br/> -->
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
+- 🔭 I’m currently working on Frontend Web Development in team projects.
+- 🔍 I’m looking forward to kickstarting my career as a <strong>software engineer</strong> with a firm driven by technology 
+- 🌱 I’m currently learning <strong>ReactJS & Redux</strong>
+- 👯 I’m looking to collaborate with Fullstack Web.
+- 💬 Ask me about <strong>Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS</strong>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
@@ -73,9 +73,9 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
   <a href="https://github.com/sunilverma11">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilverma11&show_icons=true&border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/sunilverma11">
+<!--   <a href="https://github.com/sunilverma11">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilverma11&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&border=true" />
-  </a>
+  </a> -->
 	
 	
 </p>
