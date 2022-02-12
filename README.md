@@ -1,4 +1,12 @@
 <!-- [![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io) -->
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-27-blue" />
+<!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
+  <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+</p>
+
+<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
 <h3 align="center">FullStack Web Developer </h3>
 ### About me🧑:
