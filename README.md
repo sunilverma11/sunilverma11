@@ -55,7 +55,7 @@ Languages and Tools🛠:
 </details>
 
 ---
-
+<!-- 
 <details>
 <summary> Hackathons 💻: </summary>
   
@@ -106,7 +106,7 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 </details>
 
----
+--- -->
 
 ### Github Activity ✔:
 
