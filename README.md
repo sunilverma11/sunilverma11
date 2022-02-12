@@ -4,7 +4,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
@@ -87,7 +87,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sunilverma11&theme=juicyfresh&no-bg=true" />
  -->
 
 -----
