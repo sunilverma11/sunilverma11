@@ -1,5 +1,6 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
-
+<!-- [![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io) -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
+<h3 align="center">FullStack Web Developer </h3>
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
@@ -175,21 +176,24 @@ Last Edited on: 15/01/2021
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
+</p> -->
 <br>
 
-<p align="left"> 
+<!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
- </p>
+ </p> -->
+ 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
   <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
+
 <hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
 <h3 align="center">FullStack Web Developer </h3>
 <p align="center">
