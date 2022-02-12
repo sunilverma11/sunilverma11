@@ -1,15 +1,20 @@
 <!-- [![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io) -->
+
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
+ </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
   <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1><h3 align="center">FullStack Web Developer </h3>
-
 <hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
+<h3 align="center">FullStack Web Developer </h3>
+
+
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
@@ -124,7 +129,7 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
+<!-- <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilverma11&repo=Background-generator&theme=tokyonight" />
 </a>
 
@@ -147,18 +152,7 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilverma11&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
+ -->
 
 <div align="center">
   
@@ -185,24 +179,21 @@ Last Edited on: 15/01/2021
 
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p> -->
+</p>
 <br>
 
-<!-- <p align="left"> 
+<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
- </p> -->
- 
+ </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
   <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
-
 <hr>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
 <h3 align="center">FullStack Web Developer </h3>
 <p align="center">
