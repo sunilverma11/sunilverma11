@@ -1,4 +1,5 @@
 <!-- [![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io) -->
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
