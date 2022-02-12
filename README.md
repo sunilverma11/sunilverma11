@@ -1,20 +1,15 @@
 <!-- [![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io) -->
-
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
   <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1><h3 align="center">FullStack Web Developer </h3>
+
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
-<h3 align="center">FullStack Web Developer </h3>
-
-
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
@@ -60,49 +55,6 @@ Languages and Tools🛠:
 </details>
 
 ---
-
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
-
-------
-
-
 
 <details>
 <summary> Hackathons 💻: </summary>
@@ -171,8 +123,8 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 <br/>
 
 ### My Projects ✨:
-  
-<!-- <a href="https://github.com/Davekibh/Background-generator">
+<!--   
+<a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilverma11&repo=Background-generator&theme=tokyonight" />
 </a>
 
@@ -196,9 +148,8 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilverma11&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
  -->
-
+ 
 <div align="center">
-  
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
 
@@ -222,21 +173,24 @@ Last Edited on: 15/01/2021
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
+</p> -->
 <br>
 
-<p align="left"> 
+<!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
- </p>
+ </p> -->
+ 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
 <!--   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> -->
   <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
+
 <hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1>
 <h3 align="center">FullStack Web Developer </h3>
 <p align="center">
