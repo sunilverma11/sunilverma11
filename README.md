@@ -29,7 +29,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 💬 Ask me about Frontend and Android Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+
 
 <br/>
