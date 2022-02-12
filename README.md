@@ -74,7 +74,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilverma11&show_icons=true&border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/sunilverma11">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhathi6&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilverma11&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&border=true" />
   </a>
 	
 	
