@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 
-<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sunil Kumar Verma </h1><h3 align="center">FullStack Web Developer </h3>
 
 <hr>
