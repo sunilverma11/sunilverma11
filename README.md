@@ -83,6 +83,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 </details>
 <br>
 
-Credit: [Sunil](https://github.com/arundhathi6)
+Credit: [Sunil](https://github.com/sunilverma11)
 Last Edited on: 12/2/2022
 
