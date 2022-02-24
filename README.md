@@ -83,7 +83,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 </details>
 <br>
 
-### Social Media : 🛠
+### Social Media 
 	 
 <a href="https://www.linkedin.com/in/sunilrajverma/">LinkdIn</a>
 
