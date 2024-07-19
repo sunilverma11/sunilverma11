@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-27-blue" />
+<img src="https://img.shields.io/badge/Age-30-blue" />
 
   <img src="https://img.shields.io/badge/Lives-Jaipur-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
@@ -21,14 +21,19 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development in team projects.
-- 🔍 I’m looking forward to kickstarting my career as a <strong>software engineer</strong> with a firm driven by technology 
-- 🌱 I’m currently learning <strong>ReactJS & Redux</strong>
-- 👯 I’m looking to collaborate with Fullstack Web.
-- 💬 Ask me about <strong>Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS</strong>
+- 🔭 I’m currently working as a software Engineer in globallogic ind. pvt. limited.
+- 🔍 I’m looking forward to switch company as a <strong>full stack developer</strong> with a firm driven by technology 
+- 👯 I’m looking to collaborate with Fullstack Web development.
+- 💬 Ask me about <strong>Data Structures Algorithm, JavaScript, typescript, React, MongoDB, NodeJS, HTML,CSS</strong>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
+
+<br/><br/><br/>
+ ### Experience 🎢:
+ - Working in Globallogic India Pvt. Ltd. <br/>
+ - as a software engineer.<br/>
+ - from 18 April 2022 - Present
 
 <br/><br/><br/>
 
