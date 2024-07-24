@@ -15,7 +15,7 @@
 <h3 align="center">FullStack Web Developer </h3>
 
 
-### About me🧑:
+<h2 align="center" margin-top={0}>  About Me🧑</h2>
 
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
