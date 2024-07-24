@@ -2,7 +2,6 @@
 
 
 <p align="left"> 
-<!-- <img src="https://komarev.com/ghpvc/?username=sunilverma11&color=brightgreen" alt="watching_count" /> -->
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-30-blue" />
