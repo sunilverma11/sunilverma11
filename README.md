@@ -20,12 +20,10 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working as a software Engineer in globallogic ind. pvt. limited.
 - 🔍 I’m looking forward to switch company as a <strong>full stack developer</strong> with a firm driven by technology 
-- 👯 I’m looking to collaborate with Fullstack Web development.
 - 💬 Ask me about <strong>Data Structures Algorithm, JavaScript, typescript, React, MongoDB, NodeJS, HTML,CSS</strong>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
+- ⚡ Fun fact: I 💖 to code.
 
 
 <br/><br/><br/>
